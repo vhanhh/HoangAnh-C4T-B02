@@ -1,0 +1,5 @@
+# n = input("hello: ")
+# print(n)
+print("Hello world")
+name =  input("Hello: ")
+print(name)
